@@ -277,8 +277,13 @@ h1 {
     font-size: 10vw;
   }
   .nav ul li a {
-    font-size: 8vh;
+    font-size: 3rem;
   }
+}
+
+.code-heading {
+  margin-top: 3rem;
+  font-size: xx-large;
 }
 
 /*FOOTER*/
